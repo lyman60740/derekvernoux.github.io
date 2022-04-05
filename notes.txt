@@ -1,0 +1,11 @@
+Vendredi 21 janvier :
+
+J'ai réussi a bien placé le 2eme carousel 
+mais la fleche du premier a disparu et l'autre s'est décalée 
+à voir si j'ai pas modifié une class commune pour les fleches sans faire exprès
+ps : faire un template unique pour le carousel gauche et droite et les copier coller ensuite
+
+Fin du rapport.
+
+-----
+
